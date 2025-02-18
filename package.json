@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "reactjs": "^1.0.0"
+  },
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoltaireDinh/ReactApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoltaireDinh/ReactApp/issues"
+  },
+  "homepage": "https://github.com/KoltaireDinh/ReactApp#readme"
+}
